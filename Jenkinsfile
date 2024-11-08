@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage ('GetProject') {
             steps {
-                git 'https://github.com/takfarinassaber/CT5171_test1Maven.git'
+                git 'https://github.com/JohncallStack/CT5171_test1Maven.git'
             }
         }
         stage ('build') {

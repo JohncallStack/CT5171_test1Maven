@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-        System.out.println("Testing to see if my hook is working, second time lucky!");
+        System.out.println("Testing to see if my hook is working, third time lucky!");
 
     }
 }
